@@ -1,0 +1,49 @@
+.error{
+    color: red;
+    background: lightgrey;
+    font-size: 20px;
+    border-color: red;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.success{
+    color: green;
+    border-color: green;
+    background: lightgrey;
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.blog-button{
+    background-color: #4cafa7; 
+  border: none;
+  color: white;
+  padding: 5px;
+  margin: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.ButtonsOfBlogs{
+    border: none;
+    border-radius: 15% 0;
+    color: white;
+    padding: 3px;
+    margin: 3px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    opacity: .8;
+}
+.ButtonsOfBlogs:hover{opacity: 1;font-size: 16px;}
+.delete-Button{background-color: #f73333;}
+.like-Button{background-color: #14b1f0}
